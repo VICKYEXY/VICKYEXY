@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="color: #D3D3D3;"> Olá, eu sou a Vitória!</h1>
+  <h1 style="color: #D3D3D3;"> Olá, eu sou a Vitória!🐱‍👤</h1>
   
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" alt="Bem-vindo">
   
@@ -13,8 +13,8 @@
 ## 🌌 Sobre Mim  
 
 
-👩‍💻 Sou Estudante e sempre estou aprendendo coisas novas.  
-📚 Adoro aprender novas tecnologias e explorar diferentes formas de inovar.  
+👩‍💻 Apenas uma estudante de tecnologia.  
+📚 Gosto de aprender novas coisas e explorar diferentes formas de inovar.  
 
 ---
 
