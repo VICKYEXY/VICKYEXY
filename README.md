@@ -11,11 +11,11 @@
 ---
 
 ## 🌌 Sobre Mim  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding animation">
+
 
 👩‍💻 Sou Estudante e sempre estou aprendendo coisas novas.  
 📚 Adoro aprender novas tecnologias e explorar diferentes formas de inovar.  
- 
+
 ---
 
 ## 💻 Tecnologias e Ferramentas  
