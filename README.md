@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdwMXJ1YjYxM2xxY3B5dGUzZjRxcmkyeXY1cXJheTJxcmZueWdxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MolTU2s7zDKhi/giphy.gif" width="200">
-  <p style="color: #A9A9A9;"> Obrigada por visitar meu perfil! 🖤</p>
+  <p style="color: #A9A9A9;"> Obrigada por visitar meu perfil!  🖤</p>
 </div>
 
 
