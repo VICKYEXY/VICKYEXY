@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 style="color: #D3D3D3;"> Olá, eu sou a Vitória! 🩶</h1>
+  <h1 style="color: #D3D3D3;"> Olá, eu sou a Vitória! </h1>
   
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" alt="Bem-vindo">
   
